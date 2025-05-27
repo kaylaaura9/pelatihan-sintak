@@ -22,7 +22,7 @@ function  HeroSection(){
     <div className="hero bg-[#fefbea] min-h-screen ">
         <div className="hero-content flex-col lg:flex-row-reverse">
           <img
-            src="src\assets\WhatsApp Image 2025-05-25 at 23.00.08.jpeg"
+            src="public\WhatsApp Image 2025-05-20 at 20.15.46.jpeg"
             className="w-2` rounded-2xl shadow-2xl"
           />
           <div>
